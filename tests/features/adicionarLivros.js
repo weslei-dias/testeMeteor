@@ -1,5 +1,7 @@
 //import {Livros} from '/imports/api/livros/livros';
 
+//COMENTARIO PARA FAZER O COMMIT
+
 module.exports = function() {
     this.After( function() {
         server.execute( function() {
@@ -12,7 +14,7 @@ module.exports = function() {
 
     this.Given( /^que eu tenha adicionado um livro$/, function () {
         browser.url( 'http://localhost:3000' )
-            .setValue( '[name="titulo"]', 'Testando automação com o CHIMP' )
+            .setValue( '[name="titulo"]', 'Testando automação com o CHIMP !' )
             .setValue( '[name="autor"]', 'Weslei Dias' )
             .submitForm( 'form' );
     });

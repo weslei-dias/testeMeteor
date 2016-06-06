@@ -1,0 +1,13 @@
+{
+  "name": "teste-chimp",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0",
+    "chimp": "^0.14.3"
+  }
+}
+
+

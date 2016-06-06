@@ -1,0 +1,11 @@
+<template name="listaLivros">
+    <ul class="list-group">
+        {{#each livros}}
+            <li class="list-group-item">
+                <strong>{{titulo}}</strong> &mdash; by {{autor}}
+            </li>
+        {{else}}
+            <p class="alert alert-warning">Nenhum livro adicionado!</p>
+        {{/each}}
+    </ul>
+</template>

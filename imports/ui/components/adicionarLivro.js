@@ -42,7 +42,7 @@ Template.addLivro.events({
                 }
             });
         } else {
-            alert('Insisra um título e autor do livro antes de adicionar um livro!.')
+            alert('Insisra um título e autor do livro antes de adicionar um livro! (alterado).')
         }
     }
 });

@@ -27,8 +27,8 @@
       <file leaf-file-name="adicionarAutor.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/imports/ui/components/adicionarAutor.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="153">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -415,12 +415,20 @@
       <workItem from="1464630312886" duration="10018000" />
       <workItem from="1465219330536" duration="2722000" />
       <workItem from="1465222408324" duration="324000" />
-      <workItem from="1465222805707" duration="265000" />
+      <workItem from="1465222805707" duration="301000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit H1">
+      <created>1465223084258</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1465223084258</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51603000" />
+    <option name="totallyTimeSpent" value="51639000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -494,6 +502,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit H1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit H1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -792,8 +804,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/imports/ui/components/adicionarAutor.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
           <folding />
         </state>
       </provider>

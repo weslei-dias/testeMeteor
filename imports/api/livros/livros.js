@@ -11,6 +11,11 @@ Livros.schema = new SimpleSchema({
     {
         type : String,
         label : `Autor do livro.`
+    },
+    editora :
+    {
+        type : String,
+        label : `Editora do livro.`
     }
 });
 

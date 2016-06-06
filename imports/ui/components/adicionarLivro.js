@@ -30,7 +30,8 @@ Template.addLivro.events({
 
         const livro = {
             titulo: template.find('[name="titulo"]').value.trim(),
-            autor : template.find('[name="autor"]').value.trim()
+            autor : template.find('[name="autor"]').value.trim(),
+            editora: template.find('[name="editora"]').value.trim()
         };
 
         if (livro.titulo !== '' && livro.autor !== '') {

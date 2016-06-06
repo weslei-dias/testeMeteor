@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a118785-1e37-45be-a88d-d998cb32b56c" name="Default" comment="">
+    <list default="true" id="2a118785-1e37-45be-a88d-d998cb32b56c" name="Default" comment="Alterei texto">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/meteor_packages_auto_import_browser.xml" afterPath="$PROJECT_DIR$/.idea/libraries/meteor_packages_auto_import_browser.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/meteor_packages_auto_import_npm.xml" afterPath="$PROJECT_DIR$/.idea/libraries/meteor_packages_auto_import_npm.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/testemongo_node_modules.xml" afterPath="$PROJECT_DIR$/.idea/libraries/testemongo_node_modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imports/ui/components/adicionarLivro.js" afterPath="$PROJECT_DIR$/imports/ui/components/adicionarLivro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/main.html" afterPath="$PROJECT_DIR$/client/main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imports/ui/components/adicionarLivro.html" afterPath="$PROJECT_DIR$/imports/ui/components/adicionarLivro.html" />
     </list>
     <ignored path="teste-chimp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,17 +32,17 @@
         <entry file="file://$PROJECT_DIR$/tests/features/adicionarLivros.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" column="69" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
+              <caret line="19" column="62" selection-start-line="15" selection-start-column="56" selection-end-line="19" selection-end-column="62" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="adicionarLivro.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="adicionarLivro.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/imports/ui/components/adicionarLivro.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+            <state relative-caret-position="153">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -66,14 +70,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="adicionarLivro.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="adicionarLivro.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/imports/ui/components/adicionarLivro.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#45#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="47" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -126,13 +128,13 @@
         <option value="$PROJECT_DIR$/imports/api/livros/livros.js" />
         <option value="$USER_HOME$/New Text Document.html" />
         <option value="$PROJECT_DIR$/imports/ui/components/listasdelivros.js" />
+        <option value="$PROJECT_DIR$/imports/ui/components/adicionarLivro.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/tests/livros/adicionarLivro.js" />
         <option value="$PROJECT_DIR$/tests/features/adicionarLivro.feature" />
         <option value="$PROJECT_DIR$/tests/features/adicionarLivros.js" />
         <option value="$PROJECT_DIR$/client/main.html" />
         <option value="$PROJECT_DIR$/imports/ui/components/adicionarLivro.html" />
-        <option value="$PROJECT_DIR$/imports/ui/components/adicionarLivro.js" />
       </list>
     </option>
   </component>
@@ -366,7 +368,7 @@
       <workItem from="1464625791097" duration="3632000" />
       <workItem from="1464629808217" duration="490000" />
       <workItem from="1464630312886" duration="10018000" />
-      <workItem from="1465219357185" duration="3848000" />
+      <workItem from="1465219357185" duration="3655000" />
     </task>
     <task id="LOCAL-00001" summary="Alterei texto">
       <created>1465220659827</created>
@@ -403,18 +405,11 @@
       <option name="project" value="LOCAL" />
       <updated>1465221837151</updated>
     </task>
-    <task id="LOCAL-00006" summary="Alterei">
-      <created>1465223062597</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1465223062597</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52140000" />
+    <option name="totallyTimeSpent" value="51947000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -492,8 +487,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Alterei texto de novo" />
     <MESSAGE value="Alterei texto" />
-    <MESSAGE value="Alterei" />
-    <option name="LAST_COMMIT_MESSAGE" value="Alterei" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alterei texto" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -723,11 +717,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tests/features/adicionarLivro.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/adicionarLivros.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="62" selection-start-line="15" selection-start-column="56" selection-end-line="19" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imports/ui/components/adicionarLivro.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -757,45 +785,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/imports/ui/components/adicionarLivro.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/main.js">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/features/adicionarLivros.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="69" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imports/ui/components/adicionarLivro.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
